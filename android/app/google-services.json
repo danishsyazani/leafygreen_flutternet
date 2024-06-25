@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272715398362",
+    "project_id": "leafygreen-app",
+    "storage_bucket": "leafygreen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272715398362:android:9cdb210518f2e124ff79e3",
+        "android_client_info": {
+          "package_name": "com.example.leafygreen_flutternet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_m_8zXyeW15lWMFmV2CM2JnMaf1f6Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
